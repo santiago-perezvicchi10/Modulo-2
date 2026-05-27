@@ -1,4 +1,4 @@
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 1 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 2 |
 |---|---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-2| 
 | Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 | |
